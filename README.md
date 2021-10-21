@@ -5,5 +5,5 @@
 > *More coming soon*
 
 #### Organization
-> [NovaCode](https://github.com/NovaCode-Projects)
->   [Members](https://github.com/orgs/NovaCode-Projects/people)
+[NovaCode](https://github.com/NovaCode-Projects)
+> [Members](https://github.com/orgs/NovaCode-Projects/people)
