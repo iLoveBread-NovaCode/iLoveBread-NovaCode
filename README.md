@@ -9,7 +9,7 @@
 <details><summary>NovaCode</summary>
 
 > [Page](https://github.com/NovaCode-Projects)<br>
-> [Organization Members](https://github.com/orgs/NovaCode-Projects/people)
+> [Organization Members](https://github.com/orgs/NovaCode-Projects/people)<br>
 > [Discord Server](https://discord.gg/sYxSJNVjau)
 
 </details>
