@@ -1,8 +1,8 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> [GitHub profile](https://github.com/iLoveBread-NovaCode "iLoveBread-NovaCode GitHub profile")
-> Discord: 𝗶𝗟𝗼𝘃𝗲𝗕𝗿𝗲𝗮𝗱#8671
+> [GitHub profile](https://github.com/iLoveBread-NovaCode "iLoveBread-NovaCode GitHub profile")<br>
+> Discord: 𝗶𝗟𝗼𝘃𝗲𝗕𝗿𝗲𝗮𝗱#8671<br>
 > *More coming soon*
 
 #### Organization :office:
