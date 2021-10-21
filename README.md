@@ -12,4 +12,8 @@
 
 </details>
 
-#### 
+#### Coding Languages
+| Language | Experience Level |
+| -------- | ---------------- |
+| C#       | Intermediate     |
+| JavaScript | Basics         |
