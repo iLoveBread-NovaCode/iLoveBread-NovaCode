@@ -2,6 +2,7 @@
 
 #### Socials :tm:
 > [GitHub profile](https://github.com/iLoveBread-NovaCode/)
+> Discord: 𝗶𝗟𝗼𝘃𝗲𝗕𝗿𝗲𝗮𝗱#8671
 > *More coming soon*
 
 #### Organization :office:
@@ -20,4 +21,6 @@
 | C#       | Intermediate     |
 | JavaScript | Basics         |
 
-#### 
+#### Some Personal Information
+> Pronouns: he/him
+> Age: 17
