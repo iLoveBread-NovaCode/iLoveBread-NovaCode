@@ -6,6 +6,8 @@
 
 #### Organization
 <details><summary>NovaCode</summary>
-  [Page](https://github.com/NovaCode-Projects)
-  [Organization Members](https://github.com/orgs/NovaCode-Projects/people)
+
+[Page](https://github.com/NovaCode-Projects)
+[Organization Members](https://github.com/orgs/NovaCode-Projects/people)
+
 </details>
