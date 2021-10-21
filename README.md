@@ -22,5 +22,5 @@
 | JavaScript | Basics         |
 
 #### Some Personal Information
-> Pronouns: he/him
+> Pronouns: he/him<br>
 > Age: 17
