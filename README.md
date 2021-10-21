@@ -20,6 +20,7 @@
 | -------- | ---------------- |
 | C#       | Intermediate     |
 | JavaScript | Basics         |
+| HTML, CSS | Learning        |
 
 #### Some Personal Information
 > Pronouns: he/him<br>
