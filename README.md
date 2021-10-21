@@ -10,6 +10,7 @@
 
 > [Page](https://github.com/NovaCode-Projects)<br>
 > [Organization Members](https://github.com/orgs/NovaCode-Projects/people)
+> [Discord Server](https://discord.gg/sYxSJNVjau)
 
 </details>
 
