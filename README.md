@@ -1,7 +1,7 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> [GitHub profile](https://github.com/iLoveBread-NovaCode "iLoveBread-NovaCode GitHub profile")<br>
+> [GitHub profile](https://github.com/iLoveBread-Projecys "iLoveBread GitHub profile")<br>
 > Discord: .𝙴𝚛𝚛𝚘𝚛#6969<br>
 > *More coming soon*
 
