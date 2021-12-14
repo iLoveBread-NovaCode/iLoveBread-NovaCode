@@ -2,7 +2,7 @@
 
 #### Socials :tm:
 > [GitHub profile](https://github.com/iLoveBread-NovaCode "iLoveBread-NovaCode GitHub profile")<br>
-> Discord: 𝗶𝗟𝗼𝘃𝗲𝗕𝗿𝗲𝗮𝗱#8671<br>
+> Discord: .𝙴𝚛𝚛𝚘𝚛#6969<br>
 > *More coming soon*
 
 #### Organization :office:
