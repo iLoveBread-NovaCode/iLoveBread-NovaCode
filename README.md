@@ -18,8 +18,8 @@
 #### Coding Languages
 | Language | Experience Level |
 | -------- | ---------------- |
-| C#       | Intermediate     |
-| JavaScript | Basics         |
+| C#       | Basics           |
+| JavaScript | Intermediate   |
 | HTML, CSS | Basics          |
 
 #### Some Personal Information
