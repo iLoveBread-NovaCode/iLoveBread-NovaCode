@@ -2,7 +2,7 @@
 
 #### Socials :tm:
 > [GitHub profile](https://github.com/iLoveBread-Projecys "iLoveBread GitHub profile")<br>
-> Discord: .𝙴𝚛𝚛𝚘𝚛#6969<br>
+> Discord: ㄴΉΛZΣㄱ#6358<br>
 > *More coming soon*
 
 #### Organization :office:
