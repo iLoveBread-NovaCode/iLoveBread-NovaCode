@@ -14,7 +14,7 @@
 | JavaScript | Intermediate   |
 | HTML, CSS | Basics          |
 
-#### Stuff i made
+#### Stuff I made
 > Discord bot ( JavaScript )
 > QR Code Generator ( C# )
 > Password Generator ( C# )
