@@ -14,6 +14,12 @@
 | JavaScript | Intermediate   |
 | HTML, CSS | Basics          |
 
+#### Stuff i made
+> Discord bot ( JavaScript )
+> QR Code Generator ( C# )
+> Password Generator ( C# )
+> Message Encrypter ( C# )
+
 #### Some Personal Information
 > Pronouns: he/him<br>
 > Age: 17
