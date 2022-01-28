@@ -7,13 +7,6 @@
 
 ***
 
-#### Coding Languages
-| Language | Experience Level |
-| -------- | ---------------- |
-| C#       | Basics           |
-| JavaScript | Intermediate   |
-| HTML, CSS | Basics          |
-
 #### Stuff I made
 > Discord bot ( JavaScript )
 > QR Code Generator ( C# )
