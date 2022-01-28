@@ -11,7 +11,7 @@
 
   > Connection management<br>
   > Add or remove documents and databases<br>
-  > Connect to your MongoDB database using a "C#/.NET connect link"
+  > Connect to your MongoDB database using a "C#/.NET connect link"<br>
   > ...
 
 </details>
