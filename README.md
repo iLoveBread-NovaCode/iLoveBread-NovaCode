@@ -7,11 +7,14 @@
 ***
 
 #### Current project(s)
-##### MongoDB database manager (main features in progress)
-> Connection management<br>
-> Add or remove documents and databases<br>
-> Connect to your MongoDB database using a "C#/.NET connect link"
-> ...
+<details closed><summary>MongoDB database manager (main features in progress)</summary>
+
+  > Connection management<br>
+  > Add or remove documents and databases<br>
+  > Connect to your MongoDB database using a "C#/.NET connect link"
+  > ...
+
+</details>
 
 ***
 
