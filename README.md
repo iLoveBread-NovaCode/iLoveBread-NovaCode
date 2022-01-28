@@ -19,9 +19,9 @@
 ***
 
 #### Stuff I made
-> Discord bot ( JavaScript )
-> QR Code Generator ( C# )
-> Password Generator ( C# )
+> Discord bot ( JavaScript )<br>
+> QR Code Generator ( C# )<br>
+> Password Generator ( C# )<br>
 > Message Encrypter ( C# )
 
 ***
