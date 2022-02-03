@@ -9,8 +9,8 @@
 #### Current project(s)
 <details closed><summary>Unity 2D Platformer Game</summary>
 
-  > Self-made art
-  > Trying my best for the mechanics
+  > Self-made<br>
+  > Trying my best for the mechanics<br>
   > ...
 
 </details>
