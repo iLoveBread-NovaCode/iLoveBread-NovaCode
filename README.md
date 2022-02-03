@@ -7,6 +7,7 @@
 ***
 
 #### Current project(s)
+> Unity 2D Platformer Game
 <details closed><summary>MongoDB database manager (main features in progress)</summary>
 
   > Connection management<br>
