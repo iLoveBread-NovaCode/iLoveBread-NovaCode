@@ -7,7 +7,14 @@
 ***
 
 #### Current project(s)
-> Unity 2D Platformer Game
+<details closed><summary>Unity 2D Platformer Game</summary>
+
+  > Self-made art
+  > Trying my best for the mechanics
+  > ...
+
+</details>
+
 <details closed><summary>MongoDB database manager (main features in progress)</summary>
 
   > Connection management<br>
