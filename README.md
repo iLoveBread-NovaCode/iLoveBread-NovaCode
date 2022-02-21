@@ -1,8 +1,7 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> [GitHub profile](https://github.com/iLoveBread-Projecys "iLoveBread GitHub profile")<br>
-> Discord: ㄴΉΛZΣㄱ#6358<br>
+> Discord: E̷r̷r̷A̷z̷e̷M̷e̷#6358<br>
 
 ***
 
