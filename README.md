@@ -1,7 +1,7 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> Discord: E̷r̷r̷A̷z̷e̷M̷e̷#6358<br>
+> Discord: ◢E̷r̷r̷A̷z̷e̷M̷e̷◤#6358<br>
 
 ***
 
@@ -17,7 +17,7 @@
 
 <details closed><summary>Discord.js bot</summary>
 
-  > Moderation<br>
+  > Fun<br>
   > Music<br>
   > Fully customizable<br>
   > ...
