@@ -1,7 +1,7 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> Discord: ◢E̷r̷r̷A̷z̷e̷M̷e̷◤#6358<br>
+> Discord: ɆɍɍȺƶɇMɇ#0042<br>
 
 ***
 
@@ -36,4 +36,4 @@
 
 #### Some Personal Information
 > Pronouns: he/him<br>
-> Age: 17
+> Age: 18
