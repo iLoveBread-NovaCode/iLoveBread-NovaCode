@@ -1,7 +1,7 @@
 ### Get to know me :thinking:
 
 #### Socials :tm:
-> Discord: ɆɍɍȺƶɇMɇ#0042<br>
+> Discord: 2LX$E#0042<br>
 
 ***
 
